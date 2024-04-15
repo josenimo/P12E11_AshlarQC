@@ -1,0 +1,64 @@
+20240410 111643 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_cycles
+20240410 111643 | INFO | Loading each image as a cycle
+20240410 111643 | INFO | Found 3 images in /Users/jnimoca/Jose_BI/data/raw/raw_cycles
+20240410 111643 | INFO | Loading cycle 0 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-08.ome.tiff
+20240410 111644 | INFO | Loading cycle 1 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-07.ome.tiff
+20240410 111644 | INFO | Loading cycle 2 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-06.ome.tiff
+20240410 111644 | SUCCESS | Images loaded successfully
+20240410 111655 | INFO | Aligning cycles
+20240410 111655 | INFO | Aligning cycle 0
+20240410 111656 | DEBUG | Cycle 0 aligned successfully
+20240410 111656 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111656 | INFO | Aligning cycle 1
+20240410 111657 | DEBUG | Cycle 1 aligned successfully
+20240410 111657 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111657 | INFO | Aligning cycle 2
+20240410 111657 | DEBUG | Cycle 2 aligned successfully
+20240410 111657 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111657 | SUCCESS | Finished aligning cycles
+20240410 111714 | INFO | Saving scatter plot to ../figures/scatter_shift_error.html
+20240410 111805 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_fileseries
+20240410 111805 | INFO | Loading images as a fileseries
+20240410 111805 | INFO | Cycle 0000 will be reference cycle
+20240410 111805 | INFO | Cycles ['0001'] will be aligned to reference cycle
+20240410 111805 | INFO | Loading cycle 0000
+20240410 111806 | INFO | Loading cycle 0001
+20240410 111806 | SUCCESS | Images loaded successfully
+20240410 111829 | INFO | Aligning cycles
+20240410 111829 | INFO | Aligning cycle 0
+20240410 112120 | DEBUG | Cycle 0 aligned successfully
+20240410 112120 | DEBUG | tmp.df shape (398, 4) rows to dataframe
+20240410 112120 | INFO | Aligning cycle 1
+20240410 112416 | DEBUG | Cycle 1 aligned successfully
+20240410 112416 | DEBUG | tmp.df shape (398, 4) rows to dataframe
+20240410 112416 | SUCCESS | Finished aligning cycles
+20240410 130431 | INFO | Drawing bounding boxes
+20240410 130431 | DEBUG | Aligner positions shape (81, 2)
+20240410 130605 | INFO | Drawing bounding boxes
+20240410 130605 | DEBUG | Aligner positions shape (81, 2)
+20240410 130605 | DEBUG | ran 81 many squares
+20240410 130628 | INFO | Drawing bounding boxes
+20240410 130628 | DEBUG | Aligner positions shape (6, 2)
+20240410 130628 | DEBUG | ran 6 many squares
+20240410 130644 | INFO | Drawing bounding boxes
+20240410 130644 | DEBUG | Aligner positions shape (6, 2)
+20240410 130644 | DEBUG | ran 6 many squares
+20240410 130647 | INFO | Drawing bounding boxes
+20240410 130647 | DEBUG | Aligner positions shape (81, 2)
+20240410 130647 | DEBUG | ran 81 many squares
+20240410 130732 | INFO | Aligning cycles
+20240410 130732 | INFO | Aligning cycle 0
+20240410 131143 | DEBUG | Cycle 0 aligned successfully
+20240410 131143 | DEBUG | tmp.df shape (398, 4) rows to dataframe
+20240410 131143 | INFO | Aligning cycle 1
+20240410 131609 | DEBUG | Cycle 1 aligned successfully
+20240410 131609 | DEBUG | tmp.df shape (398, 4) rows to dataframe
+20240410 131609 | SUCCESS | Finished aligning cycles
+20240410 131609 | INFO | Saving scatter plot to ../figures/scatter_shift_error.html
+20240410 131647 | INFO | Saving scatter plot to ../figures/20240410_1316_scatter_shift_error.html
+20240410 131728 | INFO | Drawing bounding boxes
+20240410 131728 | DEBUG | Aligner positions shape (81, 2)
+20240410 131728 | DEBUG | ran 81 many squares
+20240410 131805 | INFO | Drawing bounding boxes
+20240410 131805 | DEBUG | Aligner positions shape (81, 2)
+20240410 131805 | DEBUG | ran 81 many squares

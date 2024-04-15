@@ -1,0 +1,122 @@
+20240410 094043 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_cycles
+20240410 094043 | INFO | Found 3 images in /Users/jnimoca/Jose_BI/data/raw/raw_cycles
+20240410 094043 | INFO | Loading cycle 0 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-08.ome.tiff
+20240410 094044 | INFO | Loading cycle 1 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-07.ome.tiff
+20240410 094044 | INFO | Loading cycle 2 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-06.ome.tiff
+20240410 094207 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_fileseries
+20240410 094207 | INFO | Loading cycle 0000
+20240410 094228 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_fileseries
+20240410 094228 | INFO | Loading cycle 0000
+20240410 094228 | INFO | Loading cycle 0001
+20240410 094505 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_fileseries
+20240410 094505 | INFO | Loading images as a fileseries
+20240410 094505 | INFO | Cycle 0000 will be reference cycle
+20240410 094514 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_fileseries
+20240410 094514 | INFO | Loading images as a fileseries
+20240410 094514 | INFO | Cycle 0000 will be reference cycle
+20240410 094522 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_fileseries
+20240410 094522 | INFO | Loading images as a fileseries
+20240410 094522 | INFO | Cycle 0000 will be reference cycle
+20240410 094522 | INFO | Cycles ['0001'] will be aligned to reference cycle
+20240410 094522 | INFO | Loading cycle 0000
+20240410 094522 | INFO | Loading cycle 0001
+20240410 100512 | INFO | Aligning cycles
+20240410 100512 | INFO | Aligning cycle 0
+20240410 100512 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 100512 | INFO | Aligning cycle 1
+20240410 100513 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 100513 | INFO | Aligning cycle 2
+20240410 100513 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 100513 | INFO | Finished aligning cycles
+20240410 100653 | INFO | Aligning cycles
+20240410 100653 | INFO | Aligning cycle 0
+20240410 100944 | DEBUG | tmp.df shape (398, 4) rows to dataframe
+20240410 100944 | INFO | Aligning cycle 1
+20240410 101235 | DEBUG | tmp.df shape (398, 4) rows to dataframe
+20240410 101235 | INFO | Finished aligning cycles
+20240410 103522 | INFO | Aligning cycles
+20240410 103522 | INFO | Aligning cycle 0
+20240410 103522 | DEBUG | Cycle 0 aligned successfully
+20240410 103637 | INFO | Aligning cycles
+20240410 103637 | INFO | Aligning cycle 0
+20240410 103637 | DEBUG | Cycle 0 aligned successfully
+20240410 103637 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 103637 | INFO | Aligning cycle 1
+20240410 103637 | DEBUG | Cycle 1 aligned successfully
+20240410 103637 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 103637 | INFO | Aligning cycle 2
+20240410 103638 | DEBUG | Cycle 2 aligned successfully
+20240410 103638 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 103638 | SUCCESS | Finished aligning cycles
+20240410 103811 | INFO | Saving scatter plot to ../figures/scatter_shift_error.png
+20240410 103821 | INFO | Saving scatter plot to ../figures/scatter_shift_error.png
+20240410 103913 | INFO | Saving scatter plot to ../figures/scatter_shift_error.html
+20240410 104045 | INFO | Saving scatter plot to ../figures/scatter_shift_error.html
+20240410 104107 | INFO | Saving scatter plot to ../figures/scatter_shift_error.html
+20240410 104130 | INFO | Aligning cycles
+20240410 104130 | INFO | Aligning cycle 0
+20240410 104426 | DEBUG | Cycle 0 aligned successfully
+20240410 104426 | DEBUG | tmp.df shape (398, 4) rows to dataframe
+20240410 104426 | INFO | Aligning cycle 1
+20240410 104722 | DEBUG | Cycle 1 aligned successfully
+20240410 104722 | DEBUG | tmp.df shape (398, 4) rows to dataframe
+20240410 104722 | SUCCESS | Finished aligning cycles
+20240410 104753 | INFO | Saving scatter plot to ../figures/scatter_shift_error_fileseries.html
+20240410 110920 | INFO | Aligning cycles
+20240410 110920 | INFO | Aligning cycle 0
+20240410 110920 | DEBUG | Cycle 0 aligned successfully
+20240410 110920 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 110920 | INFO | Aligning cycle 1
+20240410 110920 | DEBUG | Cycle 1 aligned successfully
+20240410 110920 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 110920 | INFO | Aligning cycle 2
+20240410 110921 | DEBUG | Cycle 2 aligned successfully
+20240410 110921 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 110921 | SUCCESS | Finished aligning cycles
+20240410 110937 | INFO | Aligning cycles
+20240410 110937 | INFO | Aligning cycle 0
+20240410 110937 | DEBUG | Cycle 0 aligned successfully
+20240410 110937 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 110937 | INFO | Aligning cycle 1
+20240410 110938 | DEBUG | Cycle 1 aligned successfully
+20240410 110938 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 110938 | INFO | Aligning cycle 2
+20240410 110938 | DEBUG | Cycle 2 aligned successfully
+20240410 110938 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 110938 | SUCCESS | Finished aligning cycles
+20240410 111124 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_cycles
+20240410 111124 | INFO | Loading each image as a cycle
+20240410 111124 | INFO | Found 3 images in /Users/jnimoca/Jose_BI/data/raw/raw_cycles
+20240410 111124 | INFO | Loading cycle 0 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-08.ome.tiff
+20240410 111124 | INFO | Loading cycle 1 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-07.ome.tiff
+20240410 111124 | INFO | Loading cycle 2 from file: /Users/jnimoca/Jose_BI/data/raw/raw_cycles/exemplar-001-cycle-06.ome.tiff
+20240410 111124 | SUCCESS | Images loaded successfully
+20240410 111215 | INFO | Loading images from /Users/jnimoca/Jose_BI/data/raw/raw_fileseries
+20240410 111215 | INFO | Loading images as a fileseries
+20240410 111215 | INFO | Cycle 0000 will be reference cycle
+20240410 111215 | INFO | Cycles ['0001'] will be aligned to reference cycle
+20240410 111215 | INFO | Loading cycle 0000
+20240410 111215 | INFO | Loading cycle 0001
+20240410 111215 | SUCCESS | Images loaded successfully
+20240410 111309 | INFO | Aligning cycles
+20240410 111309 | INFO | Aligning cycle 0
+20240410 111310 | DEBUG | Cycle 0 aligned successfully
+20240410 111310 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111310 | INFO | Aligning cycle 1
+20240410 111310 | DEBUG | Cycle 1 aligned successfully
+20240410 111310 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111310 | INFO | Aligning cycle 2
+20240410 111311 | DEBUG | Cycle 2 aligned successfully
+20240410 111311 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111311 | SUCCESS | Finished aligning cycles
+20240410 111547 | INFO | Aligning cycles
+20240410 111547 | INFO | Aligning cycle 0
+20240410 111547 | DEBUG | Cycle 0 aligned successfully
+20240410 111547 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111547 | INFO | Aligning cycle 1
+20240410 111548 | DEBUG | Cycle 1 aligned successfully
+20240410 111548 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111548 | INFO | Aligning cycle 2
+20240410 111549 | DEBUG | Cycle 2 aligned successfully
+20240410 111549 | DEBUG | tmp.df shape (7, 4) rows to dataframe
+20240410 111549 | SUCCESS | Finished aligning cycles
